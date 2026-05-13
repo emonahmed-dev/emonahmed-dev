@@ -7,8 +7,8 @@
 - 📫 How to reach me?
 - Here is my social link and Email:
 
--fb: https://www.facebook.com/share/1BP3aoTWg3/
--ig: https://www.instagram.com/emon_ahmed_60?igsh=YTJ6YjAwcjg5c24y
+-fb: www.facebook.com/emonahmed.dev/
+-ig: www.instagram.com/emonahmed_dev
 
 -gmail: emon.webdev60@gmail.com
 
